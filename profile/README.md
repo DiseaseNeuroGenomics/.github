@@ -11,4 +11,4 @@ The members of the CDN are commited to developing software that is:
 - Statistically rigorous
 - Reproducable 
 
-
+We emphasize integration with standard practices from <a href="https://www.r-project.org">R</a>, <a href="https://cran.r-project.org">CRAN</a> and <a href="https://bioconductor.org">Bioconductor</a>.
